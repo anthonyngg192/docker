@@ -1,0 +1,1 @@
+docker run -it sn1per /bin/bash
